@@ -1,2 +1,2 @@
-# SDLC-LAB-1
+# SDLC-LABS
 All  labs for  SDLC course 
