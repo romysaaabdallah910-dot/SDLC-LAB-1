@@ -1,0 +1,45 @@
+##Software Development Life Cyle(SDLC)
+1.Requirepments 
+   objective :
+ to determine what the system should do. 
+   steps:
+  *gethering = collecting  coustemer requests through interviews and meetings.
+  *analysis = analyze the requests to ensure they are clear,consistent,and feasible. 
+  *documentations = write all the requirements an offical document called SRS(Software requiremention specification). 
+2.Design
+   objective :
+ to determine how the system will be implemented.
+   steps:
+  *design database (tables,relation).
+  *uml diagrams (class diagram , sequence diagrams).
+  *determine arichiture.
+  *design user interface (ui).
+3.Implementation
+   objective : 
+ converting the design into  actual code that work on the computer.
+   steps : 
+  *writing the code according to the design.
+  *implementing the databbase and tables.
+4.Testing
+   objective:
+make sure the system is working correctly and meets the requirements.
+   tests:
+  *there are three type:
+    . unit testing(testing each component of the system individually).
+    .integration testing(testing the  integration of compontents).
+    .system testing(testing the entire system).
+5.Deployment
+   objective:Running the system at the client's site.
+   steps:
+  *Installing the system on the client's server or hardware.
+  *Ensuring all functions are operational.
+  *Training users on how to use the system.
+6.maintenance
+   objective : Monitoring the system after deployment and resolving problems or updating it when needed.
+   steps:
+  *Fixing errors that appear after use.
+  *Adding new features or improving existing functions.
+  *Updating the system to comply with changes in the work environment or new client requirements.
+
+   
+
